@@ -30,3 +30,6 @@ In this project, you'll learn how exactly the mod is created, and is a helpful t
 
 8. [CleanWynnLog](https://github.com/Team-VoW/CleanWynnLog)
 *This mod is a small addition that creates a clean log file with all the dialogue messages you encountered on WynnCraft*
+
+9. [java-yaml-migrator](https://github.com/Team-VoW/java-yaml-migrator)
+*This program converts JAVA class files to YAML files, to migrate between project 5 towards 1*
